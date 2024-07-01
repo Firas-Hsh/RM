@@ -1,0 +1,13 @@
+# Visual Studio files and directories
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# Other
+.DS_Store
