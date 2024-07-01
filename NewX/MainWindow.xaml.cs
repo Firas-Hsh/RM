@@ -16,8 +16,12 @@ namespace NewX
     /// </summary>
     public partial class MainWindow : Window
     {
+        // Branch_1 hey 
         public MainWindow()
         {
+            for (int i = 0; i < 10; i++) { }
+
+
             InitializeComponent();
         }
     }
